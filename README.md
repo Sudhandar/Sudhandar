@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I teach computers to understand our language and numbers </h1> 
+<h1 align="center"> Passionate about providing data-driven solutions to solve ambiguous problems </h1> 
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
