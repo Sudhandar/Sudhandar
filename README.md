@@ -1,8 +1,8 @@
-<h1 align="center"> Passionate about providing data-driven solutions to solve ambiguous problems </h1> 
+<h1 align="center"> Applied AI Consultant </h1> 
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>I am a data scientist with a computer engineering and machine learning/deep learning background. I have more than 2 years of industry experience in solving challenging problems for North American clients by leveraging data science, data analysis, machine learning and data visualization in an agile environment. I have become proficient in natural language processing and deep learning by working on state-of-the-art language models and techniques to find innovative solutions in a research setting.
+  <samp>
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=sudhandar" alt="https://github.com/sudhandar" />
